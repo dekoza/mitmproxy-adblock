@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 0.3.1
+_src_path: gh:pawamoy/copier-poetry
+author_email: dominik@kozaczko.info
+author_fullname: Dominik Kozaczko
+author_username: dekoza
+copyright_date: '2021'
+copyright_holder: Dominik Kozaczko
+copyright_holder_email: dominik@kozaczko.info
+copyright_license: Apache License 2.0
+project_description: Ad blocker for mitmproxy
+project_name: mitmproxy-adblock
+python_package_command_line_name: mitm_adblock
+python_package_distribution_name: mitmproxy-adblock
+python_package_import_name: mitm_adblock
+repository_name: mitmproxy-adblock
+repository_namespace: dekoza
+repository_provider: github.com
+use_precommit: true
