@@ -5,7 +5,8 @@
 [![pypi version](https://img.shields.io/pypi/v/mitmproxy-adblock.svg)](https://pypi.org/project/mitmproxy-adblock/)
 [![gitter](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/mitmproxy-adblock/community)
 
-Ad blocker for mitmproxy
+Ad blocker for [mitmproxy](http://mitmproxy.org/) using popular AdBlockPlus blocklists. Inspired by [mitm-adblock](https://github.com/epitron/mitm-adblock).
+Created because [pi-hole](https://pi-hole.net/) does not work for YouTube ads.
 
 ## Requirements
 
